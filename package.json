@@ -8,9 +8,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ramiro Enrique Villarreal Orellano",
   "license": "ISC",
-  "description": "",
+  "description": "La Aplicación de Gestión de Estacionamientos es una plataforma web diseñada para conectar propietarios de estacionamientos con arrendatarios que buscan alquilar espacios disponibles. Este proyecto aborda la creciente necesidad de optimizar el uso de espacios de estacionamiento en áreas urbanas, ofreciendo una solución eficiente y fácil de usar tanto para propietarios como para usuarios finales.
+
+El sistema permite a los propietarios publicar sus estacionamientos disponibles, gestionar ofertas de alquiler y recibir notificaciones en tiempo real sobre las interacciones de los arrendatarios. Por otro lado, los arrendatarios pueden explorar estacionamientos cercanos, enviar ofertas personalizadas y recibir confirmaciones instantáneas cuando sus solicitudes son aceptadas.",
   "dependencies": {
     "bcryptjs": "^3.0.0",
     "body-parser": "^1.20.3",
