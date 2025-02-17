@@ -1,0 +1,49 @@
+{
+    "name": "parking-app-frontend",
+    "version": "1.0.0",
+    "description": "Frontend para la aplicación de gestión de estacionamientos",
+    "main": "src/main.jsx",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "keywords": [
+      "react",
+      "frontend",
+      "parking",
+      "auth",
+      "axios"
+    ],
+    "author": "TRamiro Enrique Villarreal Orellano",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.4.0",
+      "bootstrap": "^5.3.2",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-router-dom": "^6.14.2",
+      "react-scripts": "5.0.1"
+    },
+    "devDependencies": {
+      "eslint": "^8.45.0",
+      "eslint-config-airbnb": "^19.0.4",
+      "eslint-plugin-import": "^2.27.5",
+      "eslint-plugin-jsx-a11y": "^6.7.1",
+      "eslint-plugin-react": "^7.33.2",
+      "eslint-plugin-react-hooks": "^4.6.0"
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
